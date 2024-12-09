@@ -282,6 +282,8 @@ void PaymentPage(){
             state = '5';
             return;
         }
+    state = '5';
+    return;
 }
 
 //state 9
